@@ -1,0 +1,5 @@
+base datos(creacion, conexion, consultas, agregar, modificar, eliminar)
+funcionalidad de la pagina
+
+
+el diseño es al final

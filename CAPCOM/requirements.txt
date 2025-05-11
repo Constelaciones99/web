@@ -1,0 +1,1 @@
+tensorflow faiss-cpu flask Pillow Flask flask-cors faiss-cpu Werkzeug numpy
